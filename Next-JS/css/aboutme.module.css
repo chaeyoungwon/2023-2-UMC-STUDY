@@ -1,0 +1,30 @@
+.detail{
+    display:grid;
+    grid-template-columns:repeat(2,auto);
+}
+
+.label{
+    color: var(--color-blue);
+    font-weight: 600;
+    margin-right: 10px;
+    font-size:20px;
+}
+.info{
+    font-size:20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.rightcontainer{
+
+}
+
+.title{
+    font-weight: 800;
+    font-size: 20px;
+    margin-bottom:50px;
+}
